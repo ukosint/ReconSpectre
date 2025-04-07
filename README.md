@@ -1,14 +1,19 @@
 # 👁️‍🗨️ ReconSpectre
 
-**ReconSpectre** is a lightweight OSINT reconnaissance tool for hunting down usernames across social platforms and retrieving in-depth metadata — starting with GitHub.
+**ReconSpectre** is a focused, lightweight OSINT tool for identifying usernames across a wide range of platforms — combining smart scanning, metadata scraping, and clean reporting.
+
+Ideal for cybersecurity analysts, investigators, and digital researchers.
+
+---
 
 ### 🚀 Features
 
-- ✅ Scan usernames on platforms like GitHub, Twitter, Reddit, Instagram, and more
-- ✅ Fetch full GitHub metadata (bio, repos, followers, creation date)
-- ✅ Save results to `results.txt`
-- 🧠 Smart matching, permutations, and scraping coming soon
-- 📄 Exportable reports & screenshots (in development)
+- 🔍 Scans for usernames across platforms like GitHub, Reddit, Instagram, GitLab, Telegram, Facebook, Behance, and more
+- 🧠 Smart username matching (e.g. `user`, `user_`, `user_official`)
+- 🛡️ False-positive filtering via platform-specific fingerprinting
+- 📂 Saves results to `results.txt`
+- 📄 Exports clean, shareable PDF reports
+- 🧬 Scrapes detailed GitHub metadata (bio, repos, followers, creation date, etc.)
 
 ---
 
