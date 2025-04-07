@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/python-3.11+-blue)
+![License](https://img.shields.io/github/license/ukosint/ReconSpectre)
+![Stars](https://img.shields.io/github/stars/ukosint/ReconSpectre?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/ukosint/ReconSpectre)
+![Issues](https://img.shields.io/github/issues/ukosint/ReconSpectre)
+
 # 👁️‍🗨️ ReconSpectre
 
 **ReconSpectre** is a focused, lightweight OSINT tool for identifying usernames across a wide range of platforms — combining smart scanning, metadata scraping, and clean reporting.
