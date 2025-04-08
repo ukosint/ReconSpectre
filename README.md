@@ -15,7 +15,7 @@ Ideal for cybersecurity analysts, investigators, and digital researchers.
 
 ---
 
-## 🚀 Features
+## 👁️‍🗨️ Features
 
 - 🔍 Smart username scanning with common permutations:
   - `username`, `username_`, `username_official`
