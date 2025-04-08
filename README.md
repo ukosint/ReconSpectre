@@ -39,7 +39,6 @@ Ideal for cybersecurity analysts, investigators, and digital researchers.
 ## 📸 Demo
 
 ![Terminal screenshot of ReconSpectre scanning](demo.png)  
-*“Smart scan in style.”*
 
 ---
 
