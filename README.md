@@ -7,7 +7,7 @@
 
 
 
-# 👁️‍🗨️ ReconSpectre
+# 🕸️ ReconSpectre
 
 **ReconSpectre** is a focused, lightweight OSINT tool for identifying usernames across a wide range of platforms — combining smart scanning, metadata scraping, and clean reporting.
 
