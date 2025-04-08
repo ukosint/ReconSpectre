@@ -4,9 +4,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/ukosint/ReconSpectre)
 ![Issues](https://img.shields.io/github/issues/ukosint/ReconSpectre)
 
-<p align="center">
-  <img src="demo.png" alt="ReconSpectre Terminal Screenshot" width="720"/>
-</p>
 
 
 
