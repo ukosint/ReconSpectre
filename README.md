@@ -3,6 +3,8 @@
 ![Stars](https://img.shields.io/github/stars/ukosint/ReconSpectre?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/ukosint/ReconSpectre)
 ![Issues](https://img.shields.io/github/issues/ukosint/ReconSpectre)
+![ReconSpectre terminal screenshot](demo.png)
+
 
 # 👁️‍🗨️ ReconSpectre
 
