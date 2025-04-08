@@ -12,20 +12,36 @@ Ideal for cybersecurity analysts, investigators, and digital researchers.
 
 ---
 
-### 🚀 Features
+## 🚀 Features
 
-- 🔍 Scans for usernames across platforms like GitHub, Reddit, Instagram, GitLab, Telegram, Facebook, Behance, and more
-- 🧠 Smart username matching (e.g. `user`, `user_`, `user_official`)
-- 🛡️ False-positive filtering via platform-specific fingerprinting
-- 📂 Saves results to `results.txt`
-- 📄 Exports clean, shareable PDF reports
-- 🧬 Scrapes detailed GitHub metadata (bio, repos, followers, creation date, etc.)
+- 🔍 Smart username scanning with common permutations:
+  - `username`, `username_`, `username_official`
+- 🌐 Supports 15+ platforms:
+  - GitHub, Reddit, Instagram, Telegram, TikTok, Facebook, Keybase, and more
+- 🎯 False positive filtering for high accuracy
+- 📄 Auto-generated PDF reports with category grouping and icons
+- 🧠 GitHub metadata scraping (followers, repos, creation date, etc.)
+- 🎨 Terminal visual enhancements:
+  - ASCII banner
+  - Boot-up sequence animation
+  - Custom signature block (ukosint)
+- 📝 Results saved to `results.txt` and `username_report.pdf`
+- 🛠️ Modular site config via `sites.json`
 
 ---
 
-### 📦 Installation
+## 📸 Demo
+
+![Terminal screenshot of ReconSpectre scanning](demo.png)  
+*“Smart scan in style.”*
+
+---
+
+## 🛠️ Installation
 
 ```bash
-git clone https://github.com/ukosint/ReconSpectre.git
-cd ReconSpectre
+git clone https://github.com/yourname/reconspectre.git
+cd reconspectre
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
