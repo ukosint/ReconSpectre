@@ -42,7 +42,7 @@ Ideal for cybersecurity analysts, investigators, and digital researchers.
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourname/reconspectre.git
+git clone https://github.com/ukosint/ReconSpectre.git
 cd reconspectre
 python3 -m venv venv
 source venv/bin/activate
