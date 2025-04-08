@@ -1,12 +1,104 @@
 [
-  {"name": "GitHub", "url": "https://github.com/{username}"},
-  {"name": "Twitter", "url": "https://twitter.com/{username}"},
-  {"name": "Reddit", "url": "https://www.reddit.com/user/{username}"},
-  {"name": "Instagram", "url": "https://www.instagram.com/{username}/"},
-  {"name": "Pinterest", "url": "https://www.pinterest.com/{username}/"},
-  {"name": "HackerNews", "url": "https://news.ycombinator.com/user?id={username}"},
-  {"name": "GitLab", "url": "https://gitlab.com/{username}"},
-  {"name": "Medium", "url": "https://medium.com/@{username}"},
-  {"name": "TikTok", "url": "https://www.tiktok.com/@{username}"},
-  {"name": "Vimeo", "url": "https://vimeo.com/{username}"}
+  {
+    "name": "About.me",
+    "url": "https://about.me/{username}",
+    "category": "profile",
+    "icon": "https://about.me/static/icons/favicon-96x96.png"
+  },
+  {
+    "name": "Behance",
+    "url": "https://www.behance.net/{username}",
+    "category": "creative",
+    "icon": "https://a5.behance.net/9c3fdb4e91f5785f18bb5d79f69d43f9cf7c6489/img/site/apple-touch-icon.png"
+  },
+  {
+    "name": "Dribbble",
+    "url": "https://dribbble.com/{username}",
+    "category": "creative",
+    "icon": "https://cdn.dribbble.com/assets/apple-touch-icon-precomposed-6b3a4f5ecf798f293d325edb82bc5795.png"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://www.facebook.com/{username}",
+    "category": "social",
+    "icon": "https://www.facebook.com/favicon.ico"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/{username}",
+    "category": "developer",
+    "icon": "https://github.githubassets.com/favicons/favicon.png"
+  },
+  {
+    "name": "GitLab",
+    "url": "https://gitlab.com/{username}",
+    "category": "developer",
+    "icon": "https://about.gitlab.com/favicon.ico"
+  },
+  {
+    "name": "HackerNews",
+    "url": "https://news.ycombinator.com/user?id={username}",
+    "category": "developer",
+    "icon": "https://news.ycombinator.com/favicon.ico"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/{username}/",
+    "category": "social",
+    "icon": "https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"
+  },
+  {
+    "name": "Keybase",
+    "url": "https://keybase.io/{username}",
+    "category": "profile",
+    "icon": "https://keybase.io/images/icons/icon-keybase-logo-64.png"
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com/@{username}",
+    "category": "content",
+    "icon": "https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.png"
+  },
+  {
+    "name": "Pastebin",
+    "url": "https://pastebin.com/u/{username}",
+    "category": "content",
+    "icon": "https://pastebin.com/favicon.ico"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://www.pinterest.com/{username}/",
+    "category": "content",
+    "icon": "https://s.pinimg.com/webapp/favicon-96x96.png"
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.reddit.com/user/{username}",
+    "category": "social",
+    "icon": "https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://t.me/{username}",
+    "category": "communication",
+    "icon": "https://telegram.org/favicon.ico"
+  },
+  {
+    "name": "TikTok",
+    "url": "https://www.tiktok.com/@{username}",
+    "category": "social",
+    "icon": "https://s16.tiktokcdn.com/musical/resource/mtact/static/pwa/icon_192x192.png"
+  },
+  {
+    "name": "Vimeo",
+    "url": "https://vimeo.com/{username}",
+    "category": "content",
+    "icon": "https://f.vimeocdn.com/images_v6/favicon.ico"
+  },
+  {
+    "name": "X",
+    "url": "https://x.com/{username}",
+    "category": "social",
+    "icon": "https://abs.twimg.com/favicons/twitter.2.ico"
+  }
 ]
